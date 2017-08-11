@@ -147,5 +147,8 @@ form{
   margin-left: 10%
 }
 .form-image {
+  margin-left: 55px;
+  width:50%;
+  height: 55px
   border-bottom: 10%
 }
